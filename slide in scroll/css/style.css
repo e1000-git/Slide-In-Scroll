@@ -1,0 +1,93 @@
+#metn {
+    background-color: yellow;
+    padding: 10% 15%;
+}
+
+.kagiz {
+    background-color: white;
+    font-family: 'helvetica neue';
+    line-height: 120%;
+    font-size: 20px;
+    padding: 4%;
+    text-align: justify;
+}
+
+.img1 {
+    float: left;
+    padding-right: 4%;
+    opacity: 0;
+    transform: translateX(-5%);
+    transition: 1s;
+}
+
+.img2 {
+    float: right;
+    padding-left: 4%;
+    opacity: 0;
+    transform: translateX(5%);
+    transition: 1s;
+}
+
+.img3 {
+    float: left;
+    padding-right: 4%;
+    opacity: 0;
+    transform: translateX(-5%);
+    transition: 1s;
+}
+
+.img4 {
+    float: right;
+    padding-left: 4%;
+    opacity: 0;
+    transform: translateX(5%);
+    transition: 1s;
+}
+
+.img5 {
+    float: right;
+    padding-left: 4%;
+    opacity: 0;
+    transform: translateX(5%);
+    transition: 1s;
+}
+
+.slide1 {
+    float: left;
+    padding-right: 4%;
+    opacity: 1;
+    transform: translateX(0%);
+    transition: 1s;
+}
+
+.slide2 {
+    float: right;
+    padding-right: 4%;
+    opacity: 1;
+    transform: translateX(7%);
+    transition: 1s;
+}
+
+.slide3 {
+    float: left;
+    padding-right: 4%;
+    opacity: 1;
+    transform: translateX(0%);
+    transition: 1s;
+}
+
+.slide4 {
+    float: right;
+    padding-right: 4%;
+    opacity: 1;
+    transform: translateX(14%);
+    transition: 1s;
+}
+
+.slide5 {
+    float: right;
+    padding-right: 4%;
+    opacity: 1;
+    transform: translateX(7%);
+    transition: 1s;
+}
